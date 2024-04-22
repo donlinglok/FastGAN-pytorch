@@ -1,6 +1,6 @@
 
 tqdm==4.56.0 
-scipy==1.6.0 
+scipy==1.11.1 
 scikit-image==0.18.2
 ipdb==0.13.4
 pandas==1.2.1
